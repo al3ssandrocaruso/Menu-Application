@@ -1,4 +1,5 @@
 # MenuApp
+<img width="1056" alt="Screenshot 2024-03-30 at 13 33 30" src="https://github.com/al3ssandrocaruso/Menu-Application/assets/92364264/16b48457-ab5e-44d0-865a-3b6a4744ff78">
 
 The MenuApp is a mobile application that provides the following features:
 - Restaurant selection
