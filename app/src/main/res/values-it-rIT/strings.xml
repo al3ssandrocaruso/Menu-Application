@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">MenuApp</string>
+<string name="search">Cerca un risotrante</string>
+<string name="Cart">Il mio carrello</string>
+<string name="subTotal">Parziale</string>
+<string name="delivery">Spedizione</string>
+<string name="total">Totale</string>
+<string name="conf">Conferma</string>
+<string name="addFav">Aggiungi ai preferiti</string>
+<string name="starters">Antipasti</string>
+<string name="second">Secondi</string>
+<string name="sides">Contorni</string>
+<string name="fruits">Frutta</string>
+<string name="Desserts">Desserts</string>
+<string name="drinks">Bevande</string>
+<string name="first">Primi piatti</string>
+<string name="infoLess">Nascondi info</string>
+<string name="infoPlus">Mostra info</string>
+    <string name="confim">Confirm</string>
+    <string name="QR">QR not valid</string>
+</resources>

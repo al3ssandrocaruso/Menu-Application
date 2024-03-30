@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/franc/AndroidStudioProjects/Menu/app/src/main/res/drawable-v24/bg_topbar.xml" value="0.106" />
+        <entry key="..\:/Users/franc/AndroidStudioProjects/Menu/app/src/main/res/drawable-v24/qr_code.xml" value="0.1" />
+        <entry key="..\:/Users/franc/AndroidStudioProjects/Menu/app/src/main/res/drawable/add_favorite.xml" value="0.1" />
+        <entry key="..\:/Users/franc/AndroidStudioProjects/Menu/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.1915" />
+        <entry key="..\:/Users/franc/AndroidStudioProjects/MenuApp/app/src/main/res/drawable-v24/bg_topbar.xml" value="0.1" />
+        <entry key="..\:/Users/franc/AndroidStudioProjects/MenuApp/app/src/main/res/drawable-v24/eye2.xml" value="0.1" />
+        <entry key="..\:/Users/franc/AndroidStudioProjects/MenuApp/app/src/main/res/drawable-v24/qr_code.xml" value="0.1" />
+        <entry key="..\:/Users/franc/AndroidStudioProjects/MenuApp/app/src/main/res/drawable-v24/side_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (SICK_Summarization_local)" project-jdk-type="Python SDK" />
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
