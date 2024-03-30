@@ -14,7 +14,7 @@ The MenuApp is a mobile application that provides the following features:
 ### Link to the APK:
 [Download APK](https://drive.google.com/file/d/1OQPsvIFtsg4EHkIAaoZDJSP8byF-fSWc/view)
 
-### Screenshots of UI:
-![Screenshot 1](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fsv%2Fn4c6kd5n3td_5vbpn5ng_2vh0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_Y03aAE%2FScreenshot%202024-03-30%20at%2012.51.58.png)
-![Screenshot 2](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fsv%2Fn4c6kd5n3td_5vbpn5ng_2vh0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_2wdxkK%2FScreenshot%202024-03-30%20at%2012.50.54.png)
-![Screenshot 3](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fsv%2Fn4c6kd5n3td_5vbpn5ng_2vh0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_ueuTBG%2FScreenshot%202024-03-30%20at%2012.51.16.png)
+### Screenshots of the UI:
+<img width="663" alt="Screenshot 2024-03-30 at 13 10 52" src="https://github.com/al3ssandrocaruso/Menu-Application/assets/92364264/0d40d274-dc35-4b55-809d-d4b8d94993ee">
+<img width="661" alt="Screenshot 2024-03-30 at 13 11 03" src="https://github.com/al3ssandrocaruso/Menu-Application/assets/92364264/2b292b3d-f86c-41ba-a661-5c94f58c747e">
+<img width="694" alt="Screenshot 2024-03-30 at 13 11 13" src="https://github.com/al3ssandrocaruso/Menu-Application/assets/92364264/1454996c-26ec-45ab-9807-6c19a5b4b2e1">
